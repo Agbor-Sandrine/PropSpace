@@ -60,7 +60,7 @@ export function EditPropertyPage() {
     <div className="container mx-auto max-w-2xl px-4 py-8">
       <Card>
         <CardHeader>
-          <CardTitle>Edit Property Listing</CardTitle>
+          <CardTitle>Edit Property </CardTitle>
         </CardHeader>
         <CardContent>
           {submitError && (

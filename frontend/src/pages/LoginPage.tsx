@@ -50,8 +50,8 @@ export function LoginPage() {
     <div className="container mx-auto flex min-h-[calc(100vh-4rem)] items-center justify-center px-4 py-8">
       <Card className="w-full max-w-md">
         <CardHeader>
-          <CardTitle>Welcome back</CardTitle>
-          <CardDescription>Sign in to manage your property listings</CardDescription>
+          <CardTitle>Hello!! Welcome back</CardTitle>
+          <CardDescription>Sign in to manage your property </CardDescription>
         </CardHeader>
         <CardContent>
           <Form {...form}>
