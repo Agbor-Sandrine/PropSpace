@@ -1,0 +1,1 @@
+mongodb+srv://agborsandrine31_db_user:<db_password>@propspacecluster.0y6fjp4.mongodb.net/?appName=PropSpaceCluster
